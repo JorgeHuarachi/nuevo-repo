@@ -82,6 +82,14 @@ Más contenido...
     <tr><td>6</td><td>Curso de Python</td><td>En progreso</td><td>Alta</td></tr>
     <tr><td>7</td><td>Leer trabajo: Centrality Measures for Evacuation: Finding Agile Evacuation Routes</td><td>Finalizado</td><td>Alta</td></tr>
     
+<table border="1">
+    <tr>
+        <th>No.</th>
+        <th>Tarea</th>
+        <th>Estado</th>
+        <th>Prioridad</th>
+        <th>Tutor</th>
+    </tr>
     <tr>
         <td>8</td>
         <td>Sesión introducción BBDD</td>
@@ -90,13 +98,11 @@ Más contenido...
         <td rowspan="5">María Cristina Rodríguez Sánchez</td>
     </tr>
     <tr><td>9</td><td>Ver qué datos almacenar en la base de datos</td><td>Pendiente</td><td>Alta</td></tr>
-    <tr><td>10</td><td>Echar un vistazo a la documentación de Optimización de BBDD: migración de la antigua a una nueva</td><td>Repetir?</td><td>Alta</td></tr>
+    <tr><td>10</td><td>Echar un vistazo a la documentación de Optimización de BBDD</td><td>Repetir?</td><td>Alta</td></tr>
     <tr><td>11</td><td>Analizar la estructura de la base de datos</td><td>Repetir?</td><td>Alta</td></tr>
     <tr><td>12</td><td>Definir e implementar la estructura de la base de datos</td><td>Pendiente</td><td>Alta</td></tr>
-
-    <tr><td>13</td><td><a href="https://www.postgresql.org/">PostgreSQL</a></td><td>Pendiente</td><td>Pendiente</td><td></td></tr>
-    <tr><td>14</td><td>Resumen + objetivos + diagrama de flujo</td><td>Pendiente</td><td>Pendiente</td><td></td></tr>
 </table>
+
 
 
 
