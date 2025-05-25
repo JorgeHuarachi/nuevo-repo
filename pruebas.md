@@ -8,6 +8,8 @@ aqui a ver como se ve un gif si se ve.
 
 !generated_image
 
-![Texto alternativo](nuevo-repo/generated_image.png)
+![Texto alternativo](generated_image.png)
 
-![Texto alternativo](nuevo-repo/giphy.gif)
+Se supone que asi si
+
+![Texto alternativo](giphy.gif)
