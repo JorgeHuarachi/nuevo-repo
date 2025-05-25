@@ -35,6 +35,25 @@ Aquí va el contenido...
 [Volver al índice](#índice)
 Más contenido...
 
+<table>
+    <tr>
+        <th>No.</th>
+        <th>Tarea</th>
+        <th>Estado</th>
+        <th>Prioridad</th>
+        <th>Tutor</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Búsqueda del camino mínimo</td>
+        <td>En progreso</td>
+        <td>Alta</td>
+        <td rowspan="7">Marin Lujak</td>
+    </tr>
+    <tr><td>2</td><td>Operations Research: Optimization Algorithms</td><td>En progreso</td><td>Alta</td></tr>
+    <tr><td>3</td><td>Discrete Optimization</td><td>En progreso</td><td>Alta</td></tr>
+    <tr><td>4</td><td>Advanced Algorithm and Complexity</td><td>Pendiente</td><td>Alta</td></tr>
+</table>
 
 
 ![Texto alternativo](generated_image.png)
