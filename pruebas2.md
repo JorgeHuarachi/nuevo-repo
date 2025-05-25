@@ -1,7 +1,7 @@
 ## Índice
-- [Sección 1](#seccion-1)
-- [Sección 2](#seccion-2)
-- [Conclusión](#conclusion)
+- [Sección 1](#Seccion-1)
+- [Sección 2](#Seccion-2)
+- [Conclusión](#Conclusion)
 
 ## Sección 1
 [Volver al índice](#índice)
