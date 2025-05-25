@@ -7,13 +7,9 @@
 [Volver al índice](#índice)
 Aquí va el contenido...
 
-
-
-
-
-
-
-
+![Texto alternativo](generated_image.png)
+![Texto alternativo](generated_image.png)
+![Texto alternativo](generated_image.png)
 
 
 
@@ -25,7 +21,9 @@ Más contenido...
 
 
 
-
+![Texto alternativo](generated_image.png)
+![Texto alternativo](generated_image.png)
+![Texto alternativo](generated_image.png)
 
 
 
