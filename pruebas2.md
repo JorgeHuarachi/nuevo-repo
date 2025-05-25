@@ -88,7 +88,7 @@ Más contenido...
         <td>Sesión introducción BBDD</td>
         <td>Finalizado</td>
         <td>Alta</td>
-        <td rowspan="5">María Cristina Rodríguez Sánchez</td>
+        <td rowspan="7">María Cristina Rodríguez Sánchez</td>
     </tr>
     <tr><td>9</td><td>Ver qué datos almacenar en la base de datos</td><td>Pendiente</td><td>Alta</td></tr>
     <tr><td>10</td><td>Echar un vistazo a la documentación de Optimización de BBDD: migración de la antigua a una nueva</td><td>Repetir?</td><td>Alta</td></tr>
