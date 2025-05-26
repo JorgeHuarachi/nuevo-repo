@@ -2,9 +2,13 @@
 aqui a ver como se ve un gif si se ve.
 
 ## Índice
-- [Sección 1](#seccion-1)
-- [Sección 2](#seccion-2)
-- [Conclusión](#conclusion)
+| Sección 1 | Sección 6 |
+|-----------|-----------|
+| [Introducción](#introducción) | [Ejemplos Avanzados](#ejemplos-avanzados) |
+| [Conceptos Básicos](#conceptos-básicos) | [Pruebas y Debugging](#pruebas-y-debugging) |
+| [Instalación](#instalación) | [Optimizaciones](#optimizaciones) |
+| [Configuración](#configuración) | [Conclusión](#conclusión) |
+
 
 ## Sección 1 [Volver al índice](#índice)
 Aquí va el contenido...
